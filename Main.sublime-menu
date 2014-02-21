@@ -1,0 +1,19 @@
+[
+	{
+		"id": "tools",
+		"children":
+		[
+			{
+				"id": "cnPremailer",
+			    "caption": "cnPremailer",
+			    "children": 
+			    [
+			    	{
+			    		"caption": "run",
+			    		"command": "cnpremailer"
+			    	}
+			    ]
+			}
+		]
+	}
+]
